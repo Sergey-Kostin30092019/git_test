@@ -1,0 +1,1 @@
+This is Sergey's first git project
